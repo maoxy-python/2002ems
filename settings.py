@@ -1,1 +1,3 @@
-install = {}
+install_app = {
+        "users",
+        }
